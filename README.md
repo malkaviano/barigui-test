@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/malkaviano/barigui-test/badge)](https://www.codefactor.io/repository/github/malkaviano/barigui-test)
+
 # barigui
 Dev Test.
 
